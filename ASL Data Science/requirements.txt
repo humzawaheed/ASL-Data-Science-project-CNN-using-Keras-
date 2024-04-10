@@ -1,3 +1,4 @@
-pip
+tensorflow backend
+tensorflow
 kaggle
 ipykernel
