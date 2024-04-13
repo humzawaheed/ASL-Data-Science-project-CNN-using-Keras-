@@ -2,3 +2,5 @@ tensorflow backend
 tensorflow
 kaggle
 ipykernel
+# for saving model
+pickle or joblib
